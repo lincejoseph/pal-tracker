@@ -14,8 +14,11 @@ jobs:
       with:
         java-version: 11
 <<<<<<< HEAD
+<<<<<<< HEAD
     - name: Change Permission
       run: sudo chmod +x ./gradlew 
+=======
+>>>>>>> 1511056... Add task for migrating databases
 =======
 >>>>>>> 1511056... Add task for migrating databases
     - name: Create test database
